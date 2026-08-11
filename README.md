@@ -6,10 +6,9 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Electronics and Communication Engineering, **MANIT Bhopal** (2024 – Present)
-- 🧩 Problem Setter / Contributor at **Zenith Programming Club, MANIT Bhopal**
+- 🧩 **Zenith Programming Club, MANIT Bhopal**
 - 💻 Solved **700+ DSA problems** across LeetCode & Codeforces
 - 🥈 **Pupil** on Codeforces
-- 🏆 Qualified for the online round of **Prometeo '26 (IIT Jodhpur)**
 - 🌱 Currently exploring backend systems, distributed systems, and system design
 - 📫 Reach me at **gourhimanshu284@gmail.com**
 
