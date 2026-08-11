@@ -1,19 +1,60 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gour</h1>
-<h3 align="center">Full Stack Devloper</h3>
+<h3 align="center">Electronics & Communication Engineering student @ MANIT Bhopal | Building full-stack projects & solving DSA Problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugour23-dev&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugour23-dev" /> </p>
+---
 
-- 📫 How to reach me **gourhimanshu284@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/himanshu_gour_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="himanshu_gour_b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshugour23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshugour23" height="30" width="40" /></a>
-</p>
+- 🎓 B.Tech in Electronics and Communication Engineering, **MANIT Bhopal** (2024 – Present)
+- 🧩 Problem Setter / Contributor at **Zenith Programming Club, MANIT Bhopal**
+- 💻 Solved **700+ DSA problems** across LeetCode & Codeforces
+- 🥈 **Pupil** on Codeforces
+- 🏆 Qualified for the online round of **Prometeo '26 (IIT Jodhpur)**
+- 🌱 Currently exploring backend systems, distributed systems, and system design
+- 📫 Reach me at **gourhimanshu284@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugour23-dev&show_icons=true&locale=en&layout=compact" alt="himanshugour23-dev" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugour23-dev&show_icons=true&locale=en" alt="himanshugour23-dev" /></p>
+**Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
+
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 [Mini Redis: In-Memory Key-Value Store](https://github.com/)
+`C++17` `Sockets` `Multithreading` `RESP Protocol`
+- Built a Redis-compatible in-memory key-value store implementing the RESP protocol over raw TCP sockets
+- Designed multi-client concurrency using a thread-per-connection model with a mutex-guarded singleton database
+- Implemented 20+ Redis commands across strings, lists, and hashes (SET/GET, LPUSH/RPUSH, etc.)
+- Added TTL-based key expiration with lazy eviction and RDB-style persistence with automatic snapshotting
+
+#### 🔹 [VaultGG: Game Review & Collection Platform](https://github.com/)
+`React` `Node.js` `Next.js` `MongoDB` `NextAuth`
+- Designed a caching layer around the RAWG API, persisting game data in MongoDB to cut redundant calls
+- Built role-based authentication and moderation tooling for admins to manage reviews and content quality
+- Engineered atomic DB operations and one-review-per-user-per-game constraints to prevent duplicate submissions
+
+#### 🔹 [NGO Volunteer Management Platform](https://github.com/)
+`Next.js` `TypeScript` `PostgreSQL` `Better Auth`
+- Implemented dual authentication workflows: Better Auth for volunteers, custom JWT-based system for NGOs
+- Added a certificate-verification step requiring moderator approval before NGO account activation
+- Developed volunteer availability and task-assignment logic to prevent overlapping active task assignments
+
+---
+
+### 🔗 Connect
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+📧 gourhimanshu284@gmail.com
