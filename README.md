@@ -18,7 +18,6 @@ I'm an Electronics & Communication Engineering student who likes building things
 Currently pursuing my **B.Tech at MANIT Bhopal**, and contributing as a Problem Setter at the **Zenith Programming Club**.
 
 - 🧩 Solved **700+ DSA problems** across LeetCode & Codeforces — **Pupil** on Codeforces
-- 🏆 Qualified for the online round of **Prometeo '26 (IIT Jodhpur)**
 - 🌱 Currently exploring Docker, CI/CD, and building a Web IDE with sandboxed code execution
 - 💬 Ask me about **C++, systems programming, Next.js, PostgreSQL, MongoDB**
 
