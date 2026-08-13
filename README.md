@@ -13,11 +13,11 @@
 
 ## About Me
 
-I'm an Electronics & Communication Engineering student who likes building things close to the metal — whether that's an in-memory key-value store from raw TCP sockets, or full-stack platforms with real auth and moderation logic underneath.
+I'm an Electronics & Communication Engineering student who likes building things close to the metal whether that's an in-memory key-value store from raw TCP sockets, or full-stack platforms with real auth and moderation logic underneath.
 
 Currently pursuing my **B.Tech at MANIT Bhopal**, and contributing as a Problem Setter at the **Zenith Programming Club**.
 
-- 🧩 Solved **700+ DSA problems** across LeetCode & Codeforces — **Pupil** on Codeforces
+- 🧩 Solved **700+ DSA problems** across LeetCode & Codeforces **Pupil** on Codeforces
 - 🌱 Currently exploring Docker, CI/CD, and building a Web IDE with sandboxed code execution
 - 💬 Ask me about **C++, systems programming, Next.js, PostgreSQL, MongoDB**
 
@@ -62,7 +62,7 @@ Currently pursuing my **B.Tech at MANIT Bhopal**, and contributing as a Problem 
 |---|---|---|
 | **Mini Redis** | Redis-compatible in-memory key-value store with RESP protocol, thread-per-connection concurrency, TTL expiration & RDB-style persistence | C++17 · Sockets · Multithreading |
 | **VaultGG** | Game review & collection platform with a MongoDB caching layer around the RAWG API, role-based auth & moderation tooling | React · Next.js · Node.js · MongoDB |
-| **NGO Volunteer Management Platform** | Dual authentication system — Better Auth for volunteers, custom JWT for NGOs — with certificate verification & task-assignment logic | Next.js · TypeScript · PostgreSQL |
+| **NGO Volunteer Management Platform** | Dual authentication system — Better Auth for volunteers, custom JWT for NGOs  with certificate verification & task assignment logic | Next.js · TypeScript · PostgreSQL |
 
 ---
 
