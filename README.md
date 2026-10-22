@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Himanshu%20Gour&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Himanshu%20Gour&fontSize=62&fontColor=00d9ff&animation=twinkling&fontAlignY=38&desc=ECE%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Systems%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=58" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+close+to+the+metal+%E2%9A%A1;C%2B%2B+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL;Targeting+SDE+roles+%F0%9F%8E%AF;Learning+ML+%C2%B7+NLP+%C2%B7+Deep+Learning+%C2%B7+GenAI+%F0%9F%A4%96" alt="Typing SVG" />
+<a href="https://github.com/himanshugour23-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Building+things+close+to+the+metal+%E2%9A%A1;%3E+C%2B%2B+%7C+Python+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL;%3E+Targeting+SDE+roles+%F0%9F%8E%AF;%3E+Learning+ML+%C2%B7+NLP+%C2%B7+Deep+Learning+%C2%B7+GenAI+%F0%9F%A4%96" alt="typing" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=himanshugour23-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
@@ -16,9 +12,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-gour)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourhimanshu284@gmail.com)
 
+<br/>
+
+[![Profile Views](https://hits.sh/github.com/himanshugour23-dev.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/himanshugour23-dev/)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -29,6 +29,7 @@ struct Himanshu {
     string goal      = "Entry-level SDE";
     string loves     = "C++, systems programming, full-stack products";
     string learning  = "ML, NLP, Deep Learning, GenAI";
+    int    dsa       = 800;  // and counting
 };
 ```
 
@@ -39,29 +40,43 @@ I'm an Electronics & Communication Engineering student who likes building things
 - 🏆 Qualified for the online round of **Prometeo '26, IIT Jodhpur**
 - ✍️ Authoring and reviewing competitive programming problems at **Zenith Programming Club**
 - 🌱 Currently learning **Machine Learning, NLP, Deep Learning & Generative AI**
-- 💬 Ask me about **C++, systems programming, Next.js, PostgreSQL, MongoDB**
+- 💬 Ask me about **C++, Python, systems programming, Next.js, PostgreSQL, MongoDB**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 🗺️ My Journey
+
+<div align="center">
+
+| 🧩 DSA & CP | ➜ | ⚡ Systems | ➜ | 🌐 Full-Stack | ➜ | 🤖 AI / ML | ➜ | 🎯 SDE Role |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 800+ solved | | Mini Redis (C++) | | Baclogged · NGO Platform | | ML · NLP · DL · GenAI | | Goal |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,postgres,mysql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,postgres&theme=dark" alt="languages" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" alt="web" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,postman&theme=dark" alt="tools" /><br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ml" />
 
 </div>
 
 | Category | Technologies |
 |---|---|
-| **Languages** | C++, JavaScript, TypeScript, SQL |
+| **Languages** | C++, Python, JavaScript, TypeScript, SQL |
 | **Web** | React.js, Next.js, Node.js, HTML, CSS, Tailwind CSS, REST APIs |
 | **Databases & Tools** | PostgreSQL, MongoDB, Git, GitHub, Postman, Docker |
+| **ML / Data** | Python, scikit-learn |
 | **Core CS** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks |
 | **Currently Learning** | Machine Learning, NLP, Deep Learning, Generative AI |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
@@ -119,49 +134,49 @@ I'm an Electronics & Communication Engineering student who likes building things
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🌱 Currently Learning
 
 <div align="center">
 
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshugour23-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugour23-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshugour23-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugour23-dev&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=himanshugour23-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=himanshugour23-dev&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugour23-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/00d9ff/himanshugour23-dev" width="90%" alt="contributions" />
 
 </div>
-
----
 
 ## 🧠 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/himanshugour23?theme=dark&font=Fira%20Code&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/himanshugour23?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🤝 Let's Connect
 
@@ -172,6 +187,6 @@ Open to **SDE opportunities** and cool collaborations — reach out anytime.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-gour)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourhimanshu284@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
